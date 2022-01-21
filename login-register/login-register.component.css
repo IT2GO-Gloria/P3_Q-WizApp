@@ -1,0 +1,14 @@
+button {
+    background-color: rgb(185,185,186);
+    color: whitesmoke;
+    border-radius: 15%;
+    border-color: rgb(115,165,194);
+    margin-bottom: 3em;
+}
+
+div.card {
+    margin-left: 30%;
+    width: 50%;
+    height: 40%
+    border-radius 10%;
+}

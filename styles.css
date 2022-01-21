@@ -1,0 +1,12 @@
+/* You can add global styles to the styles.css file, and also import other styles to other files /
+
+/ This is adding a linear gradient color (Left to Right) for the background - every page */
+body {
+    align-content: center;
+
+    background: linear-gradient(0.25turn, rgb(115,165,194), rgb(185,185,186), rgb(253,181,21))fixed;
+    height: stretch;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+} 

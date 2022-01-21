@@ -1,0 +1,57 @@
+<app-navbar></app-navbar>
+
+<!-- This is a login form -->
+<div class="card">
+  <div class="container-fluid" id="loginAccount">
+    <form class="row g-3">
+      <div class="col-md-3">
+        <label for="inputUsername" class="form-label"></label>
+        <input type="text" class="form-control" placeholder="Username" id="inputUsername">
+      </div>
+      <div class="col-md-3">
+        <label for="inputPassword" class="form-label"></label>
+        <input type="password" class="form-control" placeholder="Password" id="inputPassword">
+      </div>
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary">Log in</button>
+        <p id="p-index">To create an account, <button (click)="toggleOn =!toggleOn" id="create-link">click
+            here.</button>
+        </p>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- This is a register form -->
+<div class="card">
+  <div class="container-fluid" id="createAccount" *ngIf="!toggleOn">
+    <form class="row g-3">
+      <div class="col-md-3">
+        <label for="inputFirstName" class="form-label"></label>
+        <input type="text" class="form-control" placeholder="First Name" id="inputFirstName">
+      </div>
+      <div class="col-md-3">
+        <label for="inputLastName" class="form-label"></label>
+        <input type="text" class="form-control" placeholder="Last Name" id="inputLastName">
+      </div>
+      <div class="col-md-3">
+        <label for="inputEmail" class="form-label"></label>
+        <input type="email" class="form-control" placeholder="Email" id="inputEmail">
+      </div>
+      <div class="col-md-3">
+        <label for="inputUsername" class="form-label"></label>
+        <input type="text" class="form-control" placeholder="Username" id="inputUsername">
+      </div>
+      <div class="col-md-3">
+        <label for="inputPassword" class="form-label"></label>
+        <input type="password" class="form-control" placeholder="Password" id="inputPassword">
+      </div>
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary">Log in</button>
+        <p id="p-index">If you already have an account, <button (click)="toggleOn =!toggleOn" id="login-link">click
+            here.</button>
+        </p>
+      </div>
+    </form>
+  </div>
+</div>
