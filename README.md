@@ -1,27 +1,38 @@
-# QWiz
+Q-Wiz-Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Project Description:
+Q-Wiz is an application where users can create and take quizzes. Quizzes can be of any type the user specifies and 
+is multiple choice and multiple answer based.
 
-## Development server
+Technologies Used
+Spring Boot - version 2.6.2
+Java - version 11
+Angular - version 13.1.2
+Visual Studio Code - version 1.6.3
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Features
+List of features ready and TODOs for future development
 
-## Code scaffolding
+With Backend the entities are finished.
+Ui is getting finished along with CSS.
+Data Tables are being created.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To-do list:
 
-## Build
+Wow improvement to be done 1
+Wow improvement to be done 2
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Getting Started
+(include git clone command) (include all environment setup steps)
 
-## Running unit tests
+Be sure to include BOTH Windows and Unix command
+Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+All the code required to get started
+Images of what it should look like
+Usage
+Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
-## Running end-to-end tests
+Contributors
+Here list the people who have contributed to this project. 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
