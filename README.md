@@ -21,7 +21,8 @@ is multiple choice and multiple answer based.
 * Allow a user to use the points gained with each correct answer toward something
 
 ### To get started: 
-Github Group Project is located at: https://github.com/Revature-Q-Wiz 
+* Github Group Project is located at: https://github.com/Revature-Q-Wiz
+* Group Trello Board is located at: https://trello.com/b/bjVEGyvO/primer-cohort-q-wiz-1187-1208
 
 ### The original engineering group:
 * Charles Chase III (Team Lead), Reveé Watts, Jerome Payne, 
