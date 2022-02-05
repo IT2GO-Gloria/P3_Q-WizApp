@@ -5,10 +5,10 @@ Q-Wiz is an application where users can create and take quizzes. Quizzes can be 
 is multiple choice and multiple answer based.
 
 # Technologies Used:
-*Spring Boot - version 2.6.2
-*Java - version 11
-*Angular - version 13.1.2
-*Visual Studio Code - version 1.6.3
+* Spring Boot - version 2.6.2
+* Java - version 11
+* Angular - version 13.1.2
+* Visual Studio Code - version 1.6.3
 
 Features
 List of features ready and TODOs for future development
@@ -18,9 +18,9 @@ Ui is getting finished along with CSS.
 Data Tables are being created.
 
 ### The next phase of this app:
-*Add a leaderboard that displays the top ten highest scores/points
-*Add points earned for each correct answer
-*Allow a user to use the points gained with each correct answer toward something
+* Add a leaderboard that displays the top ten highest scores/points
+* Add points earned for each correct answer
+* Allow a user to use the points gained with each correct answer toward something
 
 Getting Started
 Github Group Project is located at:  
