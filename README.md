@@ -23,6 +23,7 @@ is multiple choice and multiple answer based.
 ### To get started: 
 * Github Group Project is located at: https://github.com/Revature-Q-Wiz
 * Group Trello Board is located at: https://trello.com/b/bjVEGyvO/primer-cohort-q-wiz-1187-1208
+* NOTE: You may need to be a member to see the Github or Trello Board
 
 ### The original engineering group:
 * Charles Chase III (Team Lead), Reveé Watts, Jerome Payne, 
