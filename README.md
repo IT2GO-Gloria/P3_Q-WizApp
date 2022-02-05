@@ -20,9 +20,9 @@ is multiple choice and multiple answer based.
 * Add points earned for each correct answer
 * Allow a user to use the points gained with each correct answer toward something
 
-Getting Started
-Github Group Project is located at:  
+### To get started: 
+Github Group Project is located at: https://github.com/Revature-Q-Wiz 
 
-The original engineering group:
+### The original engineering group:
 * Charles Chase III (Team Lead), Reveé Watts, Jerome Payne, 
 * Gloria Johnston, Jamal Khan, Carlos Lean and Eric Taylor
