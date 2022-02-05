@@ -4,18 +4,17 @@ Project Description:
 Q-Wiz is an application where users can create and take quizzes. Quizzes can be of any type the user specifies and 
 is multiple choice and multiple answer based.
 
-# Technologies Used:
+### Technologies Used:
 * Spring Boot - version 2.6.2
 * Java - version 11
 * Angular - version 13.1.2
 * Visual Studio Code - version 1.6.3
 
-Features
-List of features ready and TODOs for future development
-
-With Backend the entities are finished.
-Ui is getting finished along with CSS.
-Data Tables are being created.
+### These are the current functions:
+* The backend entities are finished.
+* Ui is finished
+* CSS style and layout is finished
+* Data Tables were created
 
 ### The next phase of this app:
 * Add a leaderboard that displays the top ten highest scores/points
